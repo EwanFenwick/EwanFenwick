@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ewan</h1>
 <h3 align="center">A passionate C# and Unity3D developer in the Netherlands</h3>
 
-- 🌱 I’m currently learning **Asp.net & Unreal Engine**
-
-- 👨‍💻 All of my projects are available at [https://github.com/EwanFenwick/Portfolio](https://github.com/EwanFenwick/Portfolio)
-
-- 📫 How to reach me **racfairfax@gmail.com**
+<div align="center"> 
+👨‍💻 My portfolio is available <a href="https://github.com/EwanFenwick/Portfolio"> here </a> <br>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
